@@ -1,0 +1,34 @@
+{
+  "name": "pcdrum-hat",
+  "version": "0.0.1",
+  "description": "PC Drum - Hats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvm/pcdrum-hat-js.git"
+  },
+  "dependencies": {
+    "pcdrum-noise-gen": "*",
+    "pcdrum-envelope": "*"
+  },
+  "keywords": [
+    "open-hat",
+    "hi-hat",
+    "closed-hat",
+    "node",
+    "node-webkit",
+    "nwjs",
+    "audiocontext",
+    "web",
+    "audio"
+  ],
+  "author": "Mauro <mauro@sdf.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvm/pcdrum-hat-js/issues"
+  },
+  "homepage": "https://github.com/lvm/pcdrum-hat-js#readme"
+}
